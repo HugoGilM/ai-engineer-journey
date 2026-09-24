@@ -76,7 +76,7 @@ My self-study path from .NET backend/fullstack developer to **AI Engineer**, sta
 
 ## Week 0: Setup (Thu–Fri)
 
-- [ ] **Thursday**
+- [x] **Thursday**
   - Learn: install uv, then Python 3.12+ with `uv python install`; verify `python --version`
   - Practice: install VS Code (Python, Pylance, Ruff extensions) and Docker Desktop; run a Postgres container
   - Build: create the `ai-engineer-journey` GitHub repo, clone it, add the folder structure
