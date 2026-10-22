@@ -1,0 +1,11 @@
+{
+    "folders": [
+        { "name": "ai-engineer-journey (root)", "path": "." },
+        { "path": "02-real-world-python" }
+    ],
+    "settings": {
+        "python.testing.pytestEnabled": true,
+        "python.testing.unittestEnabled": false,
+        "python.testing.pytestArgs": ["tests"]
+    }
+}

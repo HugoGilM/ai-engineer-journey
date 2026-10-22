@@ -1,0 +1,4 @@
+{
+    // Root folder only: tests are discovered per week project in the workspace.
+    "python.testing.pytestEnabled": false
+}
